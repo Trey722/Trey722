@@ -20,7 +20,7 @@
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# Connect with Me 
+# Contact Me
 
 <div style="display: inline-block;">
   <a href="mailto:treydavidson35@gmail.com">
