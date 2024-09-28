@@ -43,13 +43,9 @@
 </div>
 
 
-# Fun things 
 
 
-## Programming Quote 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=verticalparameter&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## Currently Listening To
 
 
 
